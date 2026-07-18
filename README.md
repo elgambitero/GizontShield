@@ -17,3 +17,10 @@ Design parameters are optimized for this placement's use case, and will be laid 
 - Gizont NB-iot 868MHz 20cm Antenna
 - Horizontal angular size of interferer: 8,4º
 - Distance from antenna axis: Roughly one base diameter: 11mm. Perhaps adjustable.
+
+### Rough antenna dimensions:
+
+- Base diameter: 11mm
+- Base height: 65mm
+- Antenna height (from bottom of base): 200mm
+- Antenna width: 4mm
